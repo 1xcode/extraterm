@@ -3409,10 +3409,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^2.0.17":
-  version: 2.3.10
-  resolution: "dompurify@npm:2.3.10"
-  checksum: ee343876b4c065e82d194818c66af76a6d2290264c7db583ad71761c11781fd626f0245f9f4670175d5707c4b8fcfb89adae80bed0418a9426a47ee7f36b0ffc
+"dompurify@npm:^2.5.4":
+  version: 2.5.6
+  resolution: "dompurify@npm:2.5.6"
+  checksum: 1d329fe79928aa86c61539b758bdbc53df58dd90bdc5b74032a2a3a22a436e84178d8f6ad8b022c8f6fac46b26d6e7e553c0cd131a37ed5105bbed6bf87be226
   languageName: node
   linkType: hard
 
@@ -7017,7 +7017,7 @@ __metadata:
     "@types/source-map-support": 0.2.28
     "@types/utf8": 2.1.5
     commander: ^7.2.0
-    dompurify: ^2.0.17
+    dompurify: ^2.5.4
     env-paths: ^2.2.1
     esbuild: ^0.15.5
     eslint: 8.53.0
